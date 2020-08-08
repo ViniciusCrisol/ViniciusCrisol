@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius 👋
 
- -I'm a Brazilian developer, currently working on [Incca Sistemas](https://incca.com.br/)
+I'm a Brazilian developer, currently working on [Incca Sistemas](https://incca.com.br/)
 and Studying computer science at [UNIFACEF](https://www.unifacef.com.br/)!
 
 ### 🙋‍♂️ About me
