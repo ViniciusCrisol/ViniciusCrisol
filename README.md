@@ -8,4 +8,4 @@ and studying computer science at [UNIFACEF](https://www.unifacef.com.br/)!
 Lately, I have been working a lot with Typescript, React & Node! <br/>
 I invite you to take a brief look at my projects. <br/> <br/>
 
-#### That is my  [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuscrisol/), where I post small text about my projects!
+#### That is my  [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuscrisol/), where I post small texts about my projects!
