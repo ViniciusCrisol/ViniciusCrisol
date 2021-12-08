@@ -1,11 +1,5 @@
-### Hi there, I'm Vinícius 👋
+### Olá! 👋
 
-I'm a Brazilian developer, currently working on [Codebit](https://codebit.com.br/)
-and studying computer science at [UNIFACEF](https://www.unifacef.com.br/)!
+Sou programador, atualmente trabalho na [Codebit](https://codebit.com.br/) desenvolvendo sistemas web. Além disso, estudo ciências da computação na [Uni-FACEF](https://www.unifacef.com.br/). Ultimamente tenho estudado Node, entretanto tenho projetos em diferentes linguagens. Caso você tenha interesse, dê uma olhada nos meus repositórios!
 
-### 🙋‍♂️ About me
-
-Lately, I have been working a lot with Typescript, React & Node! <br/>
-I invite you to take a brief look at my projects. <br/> <br/>
-
-#### That is my  [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuscrisol/), where I post small texts about my projects!
+#### Caso queira entrar em contato, envie um e-mail para vinicius.crisol@hotmail.com ou mande uma menssagem pelo [LinkedIn](https://linkedin.com/in/viníciuscrisol/).
